@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.10.0",
+    "fs-extra": "^9.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mime-types": "^2.1.29",
+    "mongoose": "^5.12.3",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.5.0",
+    "random": "^3.0.3",
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
